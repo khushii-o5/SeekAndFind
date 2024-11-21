@@ -8,4 +8,5 @@
 - **Automatic Updates:** The platform automatically removes outdated posts when items are found or recovered, ensuring the listings remain up-to-date and clutter-free.
 
 SeekAndFind enhances the experience of reporting and recovering lost items at IGDTUW by providing a simple, efficient, and spam-free solution for all students and staff.
-Demo Video- https://drive.google.com/file/d/1mk-3yWbIiziKa4NBZZyLKN07leQpXfUL/view?usp=drivesdk
+
+**Demo Video-** https://drive.google.com/file/d/1mk-3yWbIiziKa4NBZZyLKN07leQpXfUL/view?usp=drivesdk
